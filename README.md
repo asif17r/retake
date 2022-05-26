@@ -28,9 +28,9 @@ geom_density() + theme_minimal() + labs(title = "SAT Writing Scores")
 You can align text in the columns to the left, right, or center by adding a
 colon (\:) to the left, right, or on both side of the hyphens withing the header row.
 
-| Syntax | Description | Text |
+| Syntax | Description | Test Text |
 | ------ | :---------: | :--: |
-| Header | Title | There's this |
+| Header | Title | Here's this |
 | Paragraph | Text | And more |
 
 # Instructions
